@@ -1,2 +1,2 @@
-# B2BOT Text Detection proto 1.0 
-# as DSTI Deep Learning Project
+# B2BOT preliminary work
+# DSTI Deep Learning Project
